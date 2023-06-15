@@ -4,6 +4,8 @@
 
 ![d](https://github.com/NEOLabs-software/NEOLabs-software/assets/101670923/b4a22533-f4b0-4e6b-92cd-0795d0327624)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEOLabs-software&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NEOLabs-software&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ```
 >>>/home/NEO/$ neofetch
 
