@@ -13,7 +13,7 @@
                        @@                @@(             @@      
                      @                @@    @ @@@@@@@     @%     NAME:thayeboi890
                    @                         *@      @   .@      
-                  @                          @&         @        CODE:cpp, python, shell
+                  @                          @&         @        CODE:cpp, python, shell, html
                 @@&                      ,@@         @@          
              @@  &(                 @@@           @@             PROJECTS:ExelentOS, FIso, ShAm
           @@   , %@         #@@@(       #.    %@@                
