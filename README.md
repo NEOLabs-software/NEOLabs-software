@@ -15,7 +15,7 @@
                    @                         *@      @   .@      
                   @                          @&         @        CODE:cpp, python, shell, html
                 @@&                      ,@@         @@          
-             @@  &(                 @@@           @@             PROJECTS:ExelentOS, FIso, ShAm
+             @@  &(                 @@@           @@             PROJECTS:ExelentOS, FIso
           @@   , %@         #@@@(       #.    %@@                
         @%   @    @@@@@/          #@@     @@(  @                 INTERESTS:coding, electronics, other sh!T
        @   /#             %@@@(     (@@(      @                  
