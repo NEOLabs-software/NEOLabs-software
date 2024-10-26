@@ -13,11 +13,11 @@
                        @@                @@(             @@      
                      @                @@    @ @@@@@@@     @%     NAME:thayeboi890
                    @                         *@      @   .@      
-                  @                          @&         @        CODE:cpp, python, shell, html
+                  @                          @&         @        CODE:cpp, js, shell, html
                 @@&                      ,@@         @@          
-             @@  &(                 @@@           @@             PROJECTS:ExelentOS, FIso
+             @@  &(                 @@@           @@             PROJECTS:ExelentOS, InvisProtect
           @@   , %@         #@@@(       #.    %@@                
-        @%   @    @@@@@/          #@@     @@(  @                 INTERESTS:coding, electronics, other sh!T
+        @%   @    @@@@@/          #@@     @@(  @                 INTERESTS:coding, electronics, being an idiot, other sh!T
        @   /#             %@@@(     (@@(      @                  
       @                      &@@@.          @                    
        %@@,      ,%@@@@@@.               @@                      
