@@ -29,3 +29,6 @@
 >>>/home/NEO/$
 ```
                                                                  
+## other links
+
+Codeberg:https://codeberg.org/neolabs-software
