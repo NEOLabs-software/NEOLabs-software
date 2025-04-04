@@ -1,6 +1,6 @@
 # NEOLabs Software
 
-### this gothub account hosts all non nle related software
+### this github account hosts all non nle related software
 
 ![d](https://github.com/NEOLabs-software/NEOLabs-software/assets/101670923/b4a22533-f4b0-4e6b-92cd-0795d0327624)
 
